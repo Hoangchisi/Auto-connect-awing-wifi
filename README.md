@@ -10,4 +10,4 @@
 - Chạy lệnh .\Scripts\activate để kích hoạt môi trường ảo (Windows)
 - Chạy python awing-autoconnect.py để chạy script tự động connect wifi
 - Chạy python awing-autodisconnect.py -d để chạy script tự động disconnect wifi
-- (optional) Chạy file cronjob.bat để tự động ngắt/tạo kết nối mỗi 10p
+- (optional) Chạy file cronjob.bat để tự động ngắt/tạo kết nối mỗi 14p
